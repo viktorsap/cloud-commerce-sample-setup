@@ -188,5 +188,7 @@
     <extension name='cloudcommons' />
     <extension name='cloudhotfolder' />-->
 
+    <extension name='gigyabackoffice'/>
+    <extension name='gigyaloginaddon'/>
   </extensions>
 </hybrisconfig>
